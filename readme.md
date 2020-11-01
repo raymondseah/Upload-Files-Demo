@@ -12,3 +12,5 @@ method-override (for delete)
 
 install nodemon , npm i --save-dev nodemon
 change script to have both start and dev
+
+Demo for using Multer to upload files to MONGO DB and accessing it to render to index page.
