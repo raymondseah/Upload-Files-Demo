@@ -1,6 +1,6 @@
 npm init
 
-npm install
+npm installed
 express ,
 ejs (template) ,  
 body-parser (for form) ,
